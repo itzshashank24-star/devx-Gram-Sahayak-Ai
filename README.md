@@ -20,7 +20,7 @@ Shashank Mishra
       --green:       #2e7d32;
       --light-green: #4caf50;
       --bg:          #f1f8e9;
-      --card:        #ffffff;
+     --card:        #ffffff;
       --text:        #1b1b1b;
       --muted:       #666;
       --user-bubble: #c8e6c9;
