@@ -415,4 +415,85 @@ Ministry of Agriculture reports
 
 Agmarknet
 
-eNAM portal​​
+eNAM portal
+
+Here are the official Ministry of Agriculture & Farmers Welfare (Government of India) portals where you can get actual agriculture data, statistics, crop area & production, prices, forecasts, and publications — including state-wise and sometimes district-level information:
+
+🏛️ 1. Ministry of Agriculture & Farmers Welfare official portal (DA&FW)
+
+This is the main official website of the Ministry of Agriculture and Farmers Welfare (Government of India).
+You can find:
+✔ Official reports & publications
+✔ National agricultural policy info
+✔ Crop weather data & monitoring
+✔ MSP (Minimum Support Price) notifications
+✔ Market intelligence reports
+✔ Digitally accessible statistical sections (statistics, dashboards)
+📌 Includes crop statistics, MSP, guidelines for schemes etc.
+
+📈 2. Unified Portal for Agricultural Statistics – UPAg (upag.gov.in)
+
+✔ A central data platform for agricultural analytics and crop database — including:
+🔹 Crop-wise area, production & yield nationally and by state
+🔹 Seasonal reports
+🔹 Compare states and crop trends
+📌 Useful for getting real numbers rather than estimates.
+
+Example live report:
+👉 “All India: Crop-wise Area, Production & Yield” — shows recent data across major crops.
+
+📊 3. Directorate of Economics and Statistics (DESAGRI)
+
+Official statistics division of the Ministry:
+➡️ Area, Production & Yield reports
+➡️ District- and State-wise crop data
+➡️ MSP data & price structures
+➡️ Land use & irrigation statistics
+➡️ Monthly/national bulletins
+
+This site lets you download reports and datasets published by the Government for use in research or policy analysis.
+
+🛒 4. National Agriculture Market (eNAM)
+
+Official electronic trading marketplace connecting APMC mandis across India. It provides:
+✅ Real-time price discovery
+✅ Trade volume & arrivals data
+🔍 Search by state/district/market/commodity
+👨‍🌾 Farmers can sell produce directly online
+📌 Price data gives market trends of crop prices.
+
+📈 5. Agmarknet – Agricultural Marketing Information Network
+
+While not directly responed above, this is another official govt statistics portal that lists:
+✔ Daily/weekly mandi prices by crop
+✔ Arrival data at markets
+✔ Historical rates and trends
+
+(This is accessible via govt portals and linked from Ministry sites, and used for live price lookups in other aggregators.)
+
+🧮 6. Agriculture Census (agcensus.da.gov.in)
+
+This is the official agriculture census portal by the Ministry. It provides:
+📍 Farm structure & holdings
+📍 Land use trends (area under crops, irrigation, etc.)
+📍 Data categorized by state, farm size, and crop patterns
+📍 Latest Agriculture Census data (e.g., 2021–22)
+Useful for long-term structural trends rather than daily prices.
+
+📊 7. Government Open Data Portal – Agriculture sector (data.gov.in/sector/Agriculture)
+
+✔ Official government datasets on agriculture for India
+✔ Machine-readable data you can download (CSV, API)
+✔ Useful for programmatic analysis or building dashboards
+Includes crop area, production, yields, land use, prices, and MSP statistics.
+
+📌 What You Can Get From These Official Portals
+Data Type	Source Portal
+State-wise crop production & area	UPAg, DESAGRI
+District-level crop reports	DESAGRI
+Real-time mandi prices & arrivals	eNAM, Agmarknet
+MSP notifications & price policy	DA&FW main site
+Agricultural census & land use	Agriculture Census site
+Official statistics publications	DESAGRI annual bulletins
+Open data sets (CSV/API)	data.gov.in
+Crop weather & seasonal reports	DA&FW dashboards​​
