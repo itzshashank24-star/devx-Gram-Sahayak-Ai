@@ -245,4 +245,73 @@ Smart bandwidth optimization​
 
 the system ensures reliable, affordable, and scalable AI support for farmers, students, and rural communities.​
 
+TECH STACK & METHODOLOGY​
+
+🔧 Tech Stack​
+
+Frontend:​
+
+HTML, CSS, JavaScript​
+
+Lightweight chat interface​
+
+Progressive Web App (PWA) support for offline usage​
+
+Backend:​
+
+Python (Flask / FastAPI)​
+
+REST API for minimal data exchange​
+
+JSON-based response format​
+
+AI & Data Layer:​
+
+Rule-based NLP for offline queries​
+
+Lightweight ML model (e.g., small classifier or distilled model)​
+
+Preloaded rural knowledge dataset​
+
+Local storage caching system​
+
 ​
+​
+
+⚙ Methodology​
+
+Input Processing​
+
+User enters text query.​
+
+System checks local FAQ database first.​
+
+Offline Matching​
+
+If match found → Instant response (No internet used).​
+
+If not found → Minimal compressed text sent to server.​
+
+Cloud Processing (When Needed)​
+
+Server processes only short text.​
+
+Returns concise structured JSON response.​
+
+Caching Mechanism​
+
+Response stored locally for future use.​
+
+Reduces repeated bandwidth consumption.​
+
+Optimization Techniques​
+
+Text-based interaction instead of raw voice streaming.​
+
+Short, structured responses instead of long paragraphs.​
+
+Data compression before transmission.​
+
+Edge-based keyword detection.​
+
+​​
