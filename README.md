@@ -1,2 +1,3 @@
-# devx-Gram-Sahayak-Ai
-Shashank Mishra   **👨‍💻 Team Members:**   - Utkarsh Mishra   - Shivam Kumar   - Nihal Sahu   - Anup Kumar  
+# devx-Gram-Sahayak-AI
+Shashank Mishra   
+ Utkarsh Mishra   - Shivam Kumar   - Nihal Sahu   - Anup Kumar  
